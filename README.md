@@ -1,10 +1,10 @@
-# [E-MART eCommerce Responsive HTML Template]()
+# [E-MART eCommerce Responsive HTML Template](https://e-mart-ecommerce.netlify.app/)
 
 > E-MART eCommerce Responsive HTML Template based on bootstrap framework v4.5.
 
-This project is a bootstrap version [E-MART eCommerce]() designed with HTML, CSS, SCSS, Bootstrap, Javascript & Jquery.
+This project is a bootstrap version [E-MART eCommerce](https://e-mart-ecommerce.netlify.app/) designed with HTML, CSS, SCSS, Bootstrap, Javascript & Jquery.
 
-Check the [Live Demo here]().
+Check the [Live Demo here](https://e-mart-ecommerce.netlify.app/).
 
 
 ## Technology We used
@@ -20,15 +20,15 @@ Check the [Live Demo here]().
 
 ## Pages
 
-> Home Page
-> Shop
-> Cart
-> Checkout
-> shipping
-> payment
-> Delivery
-> Billing Information
-> Signup/loginpage
+- Home Page
+- Shop
+- Cart
+- Checkout
+- shipping
+- payment
+- Delivery
+- Billing Information
+- Signup/loginpage
 
 
 ## Credits
