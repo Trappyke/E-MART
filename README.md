@@ -5,18 +5,7 @@
 This project is a bootstrap version [E-MART eCommerce](https://e-mart-ecommerce.netlify.app/) designed with HTML, CSS, SCSS, Bootstrap, Javascript & Jquery.
 
 Check the [Live Demo here](https://e-mart-ecommerce.netlify.app/).
-
-
-## Technology We used
-
-- HTML 5
-- CSS 3
-- SCSS 
-- Bootstrap
-- Fontawesome Icons 
-- Javascript & jQuery
-- Webpack 4
-- Autoprefixer 
+ 
 
 ## Pages
 
@@ -30,6 +19,7 @@ Check the [Live Demo here](https://e-mart-ecommerce.netlify.app/).
 - Billing Information
 - Signup/loginpage
 
+### Website layout 
 
 - Navigation: The website has a clear and intuitive navigation menu that allows users to easily find the products they are looking for. The menu includes links to the different product categories, as well as a link to the cart and the account page.
 
@@ -48,6 +38,16 @@ Check the [Live Demo here](https://e-mart-ecommerce.netlify.app/).
 - Overall, this website provides a comprehensive e-commerce platform that is easy to use, well-designed, and secure. It provides all the necessary features for an e-commerce website and it is designed to provide a great user experience for the customers.
 
 
+## Technology We used
+
+- HTML 5
+- CSS 3
+- SCSS 
+- Bootstrap
+- Fontawesome Icons 
+- Javascript & jQuery
+- Webpack 4
+- Autoprefixer
 
 ## Credits
 
