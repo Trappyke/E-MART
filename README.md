@@ -48,6 +48,8 @@ Check the [Live Demo here](https://e-mart-ecommerce.netlify.app/).
 - Javascript & jQuery
 - Webpack 4
 - Autoprefixer
+- Firebase Firestore
+- 0Auth (Firebase)
 
 ## Credits
 
@@ -101,6 +103,7 @@ It contains these folder and files :
 ## Webpack Dependencies
 
 - Webpack
+- Firebase
 - Babel
 - File Loader
 - CSS Loader
